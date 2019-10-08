@@ -28,7 +28,7 @@ Você foi contratada para desenvolver um sistema de visão computacional que vai
 
 O cliente passou para você o que considera uma cor ideal de berinjela
 
-![](gabarito_cor_eggpant.png)
+![](gabarito_cor_eggplant.png)
 
 Passou também um exemplo de imagem como a que seu sistema vai ter que classificar, está no arquivo `img_prova_eggplant.png`.
 
